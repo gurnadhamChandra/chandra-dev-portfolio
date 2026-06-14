@@ -36,6 +36,7 @@ npm run build
 ```
 
 Open [http://localhost:3000](http://localhost:3000)
+Open [https://chandra-portfolio-steel.vercel.app/](https://chandra-portfolio-steel.vercel.app/)
 
 ## 📧 EmailJS Setup
 
